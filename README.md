@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis
-NAME : Vijaya B Bodhankar
+NAME : VIJAYA BODHANKAR
 
 Domain : DATA ANALYTICS
 
