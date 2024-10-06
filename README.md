@@ -3,11 +3,11 @@ NAME : VIJAYA BODHANKAR
 
 Domain : DATA ANALYTICS
 
-Duration : AUGUST 5th, 2024 to  
+Duration : AUGUST 5th, 2024 to  OCTOBER 10th 2024
 
 Company : CODTECH IT SOLUTIONS
 
-ID : 
+ID : CT6WDS1794
 
 Mentor : Neela Santhosh Kumar
 
